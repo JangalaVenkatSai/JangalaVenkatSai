@@ -15,9 +15,9 @@ I work with cloud infrastructure, deployments, and automation, with an interest 
   <img src="https://skillicons.dev/icons?i=aws,terraform,linux" alt="AWS, Terraform, Linux" />
 </p>
 
-### Containers & Orchestration
+### Containers & Container Registry
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,ECR" alt="Docker, ECR" />
+  <img src="https://skillicons.dev/icons?i=docker,ecr" alt="Docker, Amazon ECR" />
 </p>
 
 ### CI/CD & Version Control
@@ -25,9 +25,10 @@ I work with cloud infrastructure, deployments, and automation, with an interest 
   <img src="https://skillicons.dev/icons?i=circleci,github,git" alt="CircleCI, GitHub, Git" />
 </p>
 
-### Monitoring
+### Monitoring & Observability
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudwatch,datadog" alt="Cloudwatch, Datadog" />
+  <img src="https://skillicons.dev/icons?i=datadog" alt="Datadog" />
+  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF9900" height="48" alt="Amazon CloudWatch" />
 </p>
 
 ## 🏅 Certifications
@@ -39,4 +40,3 @@ I work with cloud infrastructure, deployments, and automation, with an interest 
 
 - **Portfolio:** [jangalavenkatsaiportfolio.vercel.app](https://jangalavenkatsaiportfolio.vercel.app/)
 - **GitHub:** [JangalaVenkatSai](https://github.com/JangalaVenkatSai)
-
