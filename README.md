@@ -35,6 +35,3 @@ I work with cloud technologies, infrastructure automation, and deployment workfl
 - **Portfolio:** [Visit my website](https://jangalavenkatsaiportfolio.vercel.app/)
 - **GitHub:** [@JangalaVenkatSai](https://github.com/JangalaVenkatSai)
 
----
-
-*Always learning, improving, and building with cloud and DevOps technologies.*
